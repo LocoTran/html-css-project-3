@@ -127,3 +127,11 @@ table {
     border-collapse: collapse;
     border-spacing: 0;
 }
+
+input,
+textarea,
+select,
+button {
+    font-family: inherit;
+    font-family: inherit;
+}
